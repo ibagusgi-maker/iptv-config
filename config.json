@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2024-11-28T00:00:00Z",
+  "provider": {
+    "server": "demo.com:8080",
+    "username": "demo",
+    "password": "demo",
+    "type": "m3u_plus"
+  }
+}
