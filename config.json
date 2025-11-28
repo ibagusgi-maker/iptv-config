@@ -1,14 +1,14 @@
 {
-  "version": "2025-11-28T12:18:39.506Z",
-  "lastUpdate": "2025-11-28T12:18:39.506Z",
+  "version": "2025-11-28T12:25:43.037Z",
+  "lastUpdate": "2025-11-28T12:25:43.037Z",
   "provider": {
     "server": "imaxplay.net:2082",
-    "username": "CALLE",
+    "username": "HUESO",
     "password": "AJXWT",
     "type": "m3u_plus"
   },
   "metadata": {
     "generatedBy": "IPTV Pro Admin",
-    "timestamp": 1764332319506
+    "timestamp": 1764332743037
   }
 }
